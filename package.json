@@ -2,13 +2,13 @@
   "name": "ntfy-mcp",
   "version": "0.1.0",
   "description": "Standalone MCP server for sending ntfy.sh notifications",
-  "homepage": "https://github.com/yuka/ntfy-mcp",
+  "homepage": "https://github.com/Edqe14/ntfy-mcp",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuka/ntfy-mcp.git"
+    "url": "git+https://github.com/Edqe14/ntfy-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/yuka/ntfy-mcp/issues"
+    "url": "https://github.com/Edqe14/ntfy-mcp/issues"
   },
   "type": "module",
   "bin": {

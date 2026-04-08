@@ -124,6 +124,18 @@ npm run build
 npm pack --dry-run
 ```
 
+## skills.sh skill
+
+This repository also contains a reusable skill in the `skills/` directory:
+
+- `skills/ntfy-after-task/SKILL.md`
+
+After pushing the repo, it can be installed through `skills.sh` with:
+
+```bash
+npx skills add Edqe14/ntfy-mcp@ntfy-after-task
+```
+
 ## OpenCode
 
 Register the server in `opencode.json`:
